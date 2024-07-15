@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-julius-sans-one: "Julius Sans One";
+  --font-judson: Judson;
+  --font-inknut-antiqua: "Inknut Antiqua";
+  --font-jomolhari: Jomolhari;
+  --font-inria-serif: "Inria Serif";
+  --font-inder: Inder;
+
+  /* font sizes */
+  --font-size-xl: 20px;
+  --font-size-9xl: 28px;
+  --font-size-3xl: 22px;
+  --font-size-mid: 17px;
+  --font-size-lg: 18px;
+  --font-size-mini: 15px;
+  --font-size-xs: 12px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+}
